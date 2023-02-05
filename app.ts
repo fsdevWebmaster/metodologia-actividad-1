@@ -3,3 +3,8 @@ class ClassA {
   foo:string;
   bar:string;
 }
+
+class ClassC {
+  foo:string;
+  bar:string;
+}
