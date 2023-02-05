@@ -2,6 +2,7 @@
 class ClassA {
   foo:string;
   bar:string;
+  lorem:string;
 }
 
 class ClassB {
